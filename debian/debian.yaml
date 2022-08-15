@@ -1,0 +1,14 @@
+flutter_app:
+  command: svpn
+  arch: x64
+  parent: /usr/local/lib
+
+control:
+  Package: Speedify clone
+  Version: 1.0.0
+  Architecture: amd64
+  Essential: no
+  Priority: optional
+  Depends:
+  Maintainer:
+  Description: Speedify clone
